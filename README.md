@@ -7,7 +7,7 @@
 $ pkg install python git
 $ python -m pip install -r requirements.txt
 $ rm -rf zmbf
-$ git clone https://github.com/Fall-Xavier/zmbf
+$ git clone https://github.com/Fall-Ganz/zmbf
 $ cd zmbf
 $ cythonize -i zmbf.c
 $ python run.py
